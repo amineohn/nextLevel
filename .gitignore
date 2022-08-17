@@ -5,6 +5,13 @@
 /.pnp
 .pnp.js
 
+# WebStorm
+.idea
+
+# lockFiles
+yarn.lock
+package-lock.json
+
 # testing
 /coverage
 
